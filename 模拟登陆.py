@@ -55,7 +55,7 @@ for id in IDs:
         "Connection": "keep-alive",
         "Content-Length": "12",
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "Cookie": "PHPSESSID=1v2b70ileou4ep8he4d51hasf5",
+        "Cookie": "自己去找自己学校的Cookie哈~",
         "Host": "dasai.ruc.edu.cn",
         "Origin": "https://dasai.ruc.edu.cn",
         "Referer": "https://dasai.ruc.edu.cn/index.php/clubSite/xWorkEdit?w="+ str(id) +"&c=73",
